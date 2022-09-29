@@ -1,0 +1,44 @@
+---
+title: "Vectors Lab HW"
+author: "Shirley Polanco"
+date: "2022-09-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#1. Store the results of the following operations in the specified variable.
+
+x <- 3
+x
+
+y <- 5
+y
+
+
+z <- x/y
+z
+
+a <- "Applied Statistics"
+a
+
+q <- 8 * 2^2
+q
+
+message <- "Hello World!"
+message
+```
+
+```{r}
+# 2. Create a numeric vector (1) using the c() function that has the following values: 4, -10, 33,
+# 0, -121. Then (2) add the value 8 to the original vector
+
+
+
+```
+
+
+
